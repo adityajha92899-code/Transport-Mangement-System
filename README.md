@@ -10,7 +10,8 @@
 
 - ![Admin Operations Dashboard]<img width="958" height="479" alt="image" src="https://github.com/user-attachments/assets/5c8fbb5c-366c-4fb7-afab-be14382933e3" />
 
-- ![Dispatch Kanban Board]<img width="959" height="485" alt="image" src="https://github.com/user-attachments/assets/76714923-3f66-4fe5-988e-4e3785d138d9" />
+- ![Dispatch Kanban Board]<img width="763" height="428" alt="image" src="https://github.com/user-attachments/assets/798689c9-1a7a-4051-ace0-e167e1dbc57a" />
+
 
 - ![Customer Booking Wizard]<img width="947" height="472" alt="image" src="https://github.com/user-attachments/assets/1c400e26-26ba-4a1b-b650-a0896d06714b" />
 
