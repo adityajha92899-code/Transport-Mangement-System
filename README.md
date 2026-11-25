@@ -1,6 +1,6 @@
 # FleetFlow TMS (Transport Management System)
 
-🚀 **Live Demo:** [https://fleetflow-frontend-m3dw.onrender.com/login](https://fleetflow-frontend-m3dw.onrender.com/login)
+🚀 **Live :** [https://fleetflow-frontend-m3dw.onrender.com/login](https://fleetflow-frontend-m3dw.onrender.com/login)
 
 **FleetFlow TMS** is a full-stack Transport Management System built with Node.js, Express, PostgreSQL 16, Socket.io, React 18, and Tailwind CSS—featuring role-based portals for Admins/Dispatchers, Drivers, and Customers, database-enforced scheduling integrity, and real-time GPS telemetry.
 
@@ -8,9 +8,14 @@
 
 ## Screenshots
 
-- ![Admin Operations Dashboard](docs/screenshots/admin-dashboard.png "Admin Operations Dashboard with Live Map and KPIs")
-- ![Dispatch Kanban Board](docs/screenshots/trips-kanban.png "Trips Kanban Board and 3-Step Schedule Wizard")
-- ![Customer Booking Wizard](docs/screenshots/customer-booking.png "Customer 3-Step Transport Request Wizard")
+- ![Admin Operations Dashboard]<img width="958" height="479" alt="image" src="https://github.com/user-attachments/assets/5c8fbb5c-366c-4fb7-afab-be14382933e3" />
+
+- ![Dispatch Kanban Board]<img width="959" height="485" alt="image" src="https://github.com/user-attachments/assets/76714923-3f66-4fe5-988e-4e3785d138d9" />
+
+- ![Customer Booking Wizard]<img width="947" height="472" alt="image" src="https://github.com/user-attachments/assets/1c400e26-26ba-4a1b-b650-a0896d06714b" />
+
+- ![driver dashboard]<img width="956" height="479" alt="image" src="https://github.com/user-attachments/assets/0d4133ff-f24b-4ac3-9e5b-9a6f7c9aa9fd" />
+
 
 ---
 
